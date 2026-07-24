@@ -93,7 +93,7 @@ AI-guided DSA coach — Gemini-powered hint engine that calibrates specificity i
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/424242/A-S-Manoj" alt="A-S-Manoj's GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/2F80ED/A-S-Manoj" alt="A-S-Manoj's GitHub contribution chart" />
 </p>
 
 <p align="center">
