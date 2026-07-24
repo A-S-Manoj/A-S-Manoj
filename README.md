@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=180&section=header&text=A-S-Manoj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=180&section=header&text=A-S-Manoj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Developer;Open-Source+Contributor;Building+AI-Integrated+Systems" alt="Typing SVG" />
-<img src="https://komarev.com/ghpvc/?username=A-S-Manoj&color=2F80ED&style=flat-square&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=424242&center=true&vCenter=true&width=600&lines=Software+Developer;Open-Source+Contributor;Building+AI-Integrated+Systems" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=A-S-Manoj&color=424242&style=flat-square&label=Profile+Views" />
 </div>
 
 <br>
@@ -26,7 +26,7 @@ Currently: ............... Contributing to Intel, tree-sitter & other OSS orgs
 <br>
 
 <p align="center">
-  <a href="https://a-s-manoj.me/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://a-s-manoj.me/"><img src="https://img.shields.io/badge/Portfolio-424242?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@ AI-guided DSA coach — Gemini-powered hint engine that calibrates specificity i
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2F80ED/A-S-Manoj" alt="A-S-Manoj's GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/424242/A-S-Manoj" alt="A-S-Manoj's GitHub contribution chart" />
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ AI-guided DSA coach — Gemini-powered hint engine that calibrates specificity i
 Let's build something. Always down to pair on open-source issues, hackathon ideas, or side projects involving full-stack systems or AI tooling.
 
 <p align="center">
-  <a href="https://a-s-manoj.me/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://a-s-manoj.me/"><img src="https://img.shields.io/badge/Portfolio-424242?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=100&section=footer" />
